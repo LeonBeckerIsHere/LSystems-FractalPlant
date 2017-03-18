@@ -1,0 +1,7 @@
+﻿  main.cpp
+  LSytem.cpp
+c:\users\leona\documents\fractals\lsystems\lsystems\lsytem.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\leona\documents\fractals\lsystems\lsystems\lsytem.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LSystems.vcxproj -> C:\Users\LeonA\Documents\Fractals\LSystems\Debug\LSystems.exe
+  LSystems.vcxproj -> C:\Users\LeonA\Documents\Fractals\LSystems\Debug\LSystems.pdb (Partial PDB)
